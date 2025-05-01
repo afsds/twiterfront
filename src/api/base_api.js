@@ -1,1 +1,1 @@
-export const API_BASE_URL = 'https://afsds.pythonanywhere.com/';
+export const API_BASE_URL = 'http://localhost:8000';
